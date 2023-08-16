@@ -1,4 +1,3 @@
-Today is wednesday
-we have our ai bootcamp session
-learning git
-Append
+append part 2
+made a mistake earlier 
+this is append part 2
