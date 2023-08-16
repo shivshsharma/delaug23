@@ -5,3 +5,4 @@ i had my lunch
 the weather is awesome
 branching
 branching
+git fetch
